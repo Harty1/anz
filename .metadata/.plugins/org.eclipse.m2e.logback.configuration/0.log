@@ -1,0 +1,17 @@
+2017-07-27 19:07:32,745 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2017-07-27 19:07:32,808 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2017-07-27 19:09:29,158 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Harsh\git\workspace\anz\currency_convertor\pom.xml
+2017-07-27 19:09:29,793 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.anz.currency.convertor:currency_convertor:0.0.1-SNAPSHOT @ C:\Users\Harsh\git\workspace\anz\currency_convertor\pom.xml.
+2017-07-27 19:09:30,261 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /currency_convertor/src/main/java
+2017-07-27 19:09:30,261 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /currency_convertor/src/test/java
+2017-07-27 19:09:30,798 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 1 sec
+2017-07-27 19:09:31,533 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.anz.currency.convertor:currency_convertor:0.0.1-SNAPSHOT @ C:\Users\Harsh\git\workspace\anz\currency_convertor\pom.xml.
+2017-07-27 19:09:31,736 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-27 19:09:31,736 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Harsh\git\workspace\anz\currency_convertor\src\main\resources
+2017-07-27 19:09:31,736 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-27 19:09:31,736 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Harsh\git\workspace\anz\currency_convertor\src\test\resources
+2017-07-27 19:09:31,814 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.anz.currency.convertor:currency_convertor:0.0.1-SNAPSHOT @ C:\Users\Harsh\git\workspace\anz\currency_convertor\pom.xml.
+2017-07-27 19:09:32,826 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-27 19:09:32,826 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Harsh\git\workspace\anz\currency_convertor\src\main\resources
+2017-07-27 19:09:32,841 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-27 19:09:32,841 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Harsh\git\workspace\anz\currency_convertor\src\test\resources
